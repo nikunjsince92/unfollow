@@ -1,0 +1,29 @@
+[06-Jul-2015 01:49:13 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 01:50:07 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 01:50:49 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 01:52:44 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 02:03:56 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 02:56:11 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 02:56:14 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 02:56:17 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 02:58:02 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 02:58:04 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 05:49:43 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 05:55:37 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:11:01 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 06:14:43 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:15:44 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:15:49 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:15:53 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:16:03 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:53:34 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 334
+[06-Jul-2015 06:57:32 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/main.php on line 13
+[06-Jul-2015 06:58:58 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/getFriends.php on line 10
+[06-Jul-2015 07:00:03 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/nikunj/unfollow/getFriends.php on line 10
+[06-Jul-2015 07:01:15 America/New_York] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/freakeng/public_html/nikunj/unfollow/logout.php on line 3
+[06-Jul-2015 07:01:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freakeng/public_html/nikunj/unfollow/logout.php:3) in /home/freakeng/public_html/nikunj/unfollow/logout.php on line 5
+[06-Jul-2015 07:17:04 America/New_York] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message 'Invalid request token.' in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php:137
+Stack trace:
+#0 /home/freakeng/public_html/nikunj/unfollow/main.php(23): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/access_to...', Array)
+#1 {main}
+  thrown in /home/freakeng/public_html/nikunj/unfollow/twitteroauth-master/src/TwitterOAuth.php on line 137

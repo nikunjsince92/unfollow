@@ -1,0 +1,43 @@
+body
+{
+font-family: 'Muli', sans-serif;
+}
+.row .profilePic img{
+	width:100%;
+	height:auto;
+}
+.fullName {
+	font-size:16px;
+	padding:5px 0;
+}
+.fullName_TableView{
+	float:none;
+    display:inline-block;
+    vertical-align:middle;
+}
+.unfollowButton{
+	padding:5px 0;
+}
+.tableForFriends{
+	padding:5px;
+	margin:10px;
+	border-radius:2px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border:1px solid #ddd;
+}
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+.fa{color:#aaa; cursor:pointer;}
+.selected {color:#222;}
+.tableFormat{display:none;}
+.toggleRow
+{
+font-size:22px;
+background-color:#FDFDFD; padding:20px 0; 
+}
+
+a:hover{text-decoration:none;}
+.tableForFriends:hover{background-color:#F5F5F5;}
